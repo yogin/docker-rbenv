@@ -8,6 +8,7 @@ RUN apt-get -y update && apt-get -qy --no-install-recommends install \
     git \
     mysql-client \
     redis-tools \
+    sudo \
     tmux \
     vim \
     \
