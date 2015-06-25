@@ -15,6 +15,7 @@ RUN apt-get -y update && apt-get -qy --no-install-recommends install \
     build-essential \
     libmysqlclient-dev \
     libffi-dev \
+    libreadline-dev \
     libsqlite3-dev \
     libssl-dev \
     libxml2-dev \
